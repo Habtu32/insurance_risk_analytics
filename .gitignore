@@ -1,0 +1,14 @@
+# Ignore the entire data directory (DVC will handle data versioning)
+data/
+
+# Ignore virtual environment folders
+venv/
+.venv/
+
+# Ignore Python compiled files and caches
+__pycache__/
+*.pyc
+
+# Ignore common artifacts from notebooks and IDEs
+.ipynb_checkpoints/
+.DS_Store
