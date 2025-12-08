@@ -11,7 +11,7 @@ This project analyzes historical insurance policy and claims data for ACIS to id
 
 ---
 
-## **Project Structure**
+## **Project Structure*
 
 ```
 ACIS-Insurance-Analytics/
